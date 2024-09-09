@@ -2,6 +2,14 @@
 ! Title: iOS Sideload Certificate Blocklist
 ! Description: URLs to block Apple from signing apps forcing local signing.
 !
+||ocsp.yyyue.xyz^
+||esign.yyyue.xyz^
+||api.nuosike.com^
+||h.trace.qq.com^
+||ios.bugly.qq.com^
+||ulogs.umengcloud.com^
+||utoken.umeng.com^
+||ulogs.umeng.com^
 ||ocsp.apple.com^
 ||ocsp2.apple.com^
 ||valid.apple.com^
