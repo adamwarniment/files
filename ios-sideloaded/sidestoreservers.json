@@ -3,7 +3,7 @@
         {
             "name:" "Local - Pinehills",
             "address": "http://192.168.1.10:6969"
-        }
+        },
         {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
