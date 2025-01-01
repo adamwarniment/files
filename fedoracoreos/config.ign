@@ -1,5 +1,9 @@
-variant: fcos
-version: 1.5.0
+# This is an Ignition configuration file.
+# It describes the desired state of the system.
+
+ignition:
+  version: "3.0"
+
 passwd:
   users:
   - name: core
